@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Delta Facvoid
+title: 'Delta Facvoid'
 subtitle: ''
 description: ''
 keywords:
-author: Delta Facvoid
-language: zh
+author: 'Delta Facvoid'
+language: 'zh'
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://blog.delta-facvoid.neko-nya.top
+url: 'https://blog.delta-facvoid.neko-nya.top'
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:

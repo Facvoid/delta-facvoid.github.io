@@ -13,3 +13,5 @@ footer:
   start: 2025/9/4 23:43:30
 home_banner:
   title: Nya~
+comment:
+  enable: false

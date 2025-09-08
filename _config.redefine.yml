@@ -1,0 +1,24 @@
+info:
+  title: 'Delta Facvoid'
+  subtitle: 'Nya~'
+  author: 'Delta Facvoid'
+  url: 'https://blog.delta-facvoid.neko-nya.top'
+defaults:
+  favicon: 'https://avatars.githubusercontent.com/u/85226744'
+  logo: 'https://avatars.githubusercontent.com/u/85226744'
+  avatar: 'https://avatars.githubusercontent.com/u/85226744'
+colors:
+  primary: '#ff9cc0'
+footer:
+  start: 2025/9/4 23:43:30
+home_banner:
+  title: Nya~
+  subtitle:
+    text: ["???", "What am I doing?", "Hmmmm..."]
+navbar:
+  links:
+    About:
+      icon: fa-regular fa-circle-info
+      path: /about
+comment:
+  enable: false
